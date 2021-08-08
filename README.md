@@ -17,10 +17,12 @@ This Project is from the Microverse curriculum. Its main goal is to ensure stude
 
 To get a local copy up and running:
 
-1. Clone this repository or download tha Zip folder.
+1. Clone this repository or download the Zip folder:
+
 **``git clone https://github.com/zieeco/hello-microverse.git``**
 
 1. Navigate to the location of the folder in your machine:
+
 **``you@your-Pc-name:~$ cd <folder>``**
 
 ## Author

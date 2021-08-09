@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.greeting {
+  text-align: center;
+  align-items: center;
+  font-size: 50px;
+  margin-top: 20px;
+  color: #7268f2;
+}
